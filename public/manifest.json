@@ -1,0 +1,8 @@
+{
+  "short_name": "React Movies",
+  "name": "React Movies App",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
