@@ -1,0 +1,2 @@
+*{box-sizing:border-box;margin:0;padding:0}nav{padding:0 1rem}.content{min-height:calc(100vh - 134px);padding:1.5rem 0}html body .card-title{-webkit-line-clamp:1;-webkit-box-orient:vertical;display:-webkit-box!important;overflow:hidden}.card-image>div{background-position:50%;background-size:cover;min-height:400px}.movies{grid-gap:1rem;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr))}.search-btn{position:absolute;right:.5rem;top:0}label:not(:last-child){margin-right:1rem}
+/*# sourceMappingURL=main.dc75b0a0.css.map*/
